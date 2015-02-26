@@ -10,6 +10,6 @@ You need to download the mnist dataset from http://yann.lecun.com/exdb/mnist/ an
 
 The getConfigXXValues functions may not work due to the end of line format of "ParamConfig.ini" file,you should convert it to the windows platform end of line format.
 
-The Deep Neural Network implemented by stacked autoencoders with proper paramters has a classification accuracy of 98% or even better on the mnist dataset(trained on training set and tested on test set).
+The Deep Neural Network implemented by stacked autoencoders with proper parameters has a classification accuracy of 98% or even better on the mnist dataset(trained on training set and tested on test set).
 
 
